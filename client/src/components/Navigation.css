@@ -1,0 +1,15 @@
+.Home {
+  color: #ffff;
+}
+.Home:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
+.Plots {
+  margin-left: 10px;
+  color: #ffff;
+}
+.Plots:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}

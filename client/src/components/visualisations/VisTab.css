@@ -1,0 +1,30 @@
+.line {
+  margin: auto;
+  border-color: unset;
+  color: #ffff;
+}
+
+.pie {
+  margin: auto;
+  border-color: unset;
+  color: #ffff;
+}
+.scatter {
+  margin: auto;
+  border-color: unset;
+  color: #ffff;
+}
+.dropdown {
+  margin: auto;
+}
+.nav {
+  background-color: #ffff;
+  border: #454d55;
+}
+.mr-auto1 {
+  border: ridge;
+}
+.css-2b097c-container {
+  margin-top: 15px !important;
+  margin-bottom: 30px !important;
+}
