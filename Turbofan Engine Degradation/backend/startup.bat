@@ -1,7 +1,7 @@
 
 python app.py 
 
-cd client
+cd ../client
 call npm start
 
 pause > nul
